@@ -8,6 +8,27 @@ This is a **Traktorinoa.h** Arduino library created to use the L298P motor shiel
 
 ![L298P Irudia](https://github.com/axpirina/Traktorinoa/blob/main/L298P.png "L298P")
 
+## Instalazioa
+Eskuinean dagoen ```diff + CODE ``` jartzen duen botoian sakatu eta .ZIP formatuan jaitsi artxiboa.
+Arduino IDEan Include Library eta Add .ZIP aurkitu eta txertatu.
+
+## Kodea
+Hemen daukazue liburutegiari deia egiteko adibide kodea. 
+
+```c++
+#include <Traktorinoa.h>
+
+Traktorinoa niretraktorinoa;
+
+void setup() {
+
+}
+
+void loop() {
+  niretraktorinoa.aurrera();
+}
+```
+
 ## License
 
 This library it is release into open source license for any query you can write me at axpirina@oteitzalp.com
