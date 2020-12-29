@@ -53,4 +53,4 @@ This library it is release into open source license for any query you can write 
   
 ## Project
 
-This is part of a bigger educational project called Traktorinoa, the autonomus tractor. 
+This is part of a bigger educational project called Traktorinoa, the autonomus tractor. [Traktorino Proiektua](https://github.com/axpirina/Traktorinoa-Proiektua)
