@@ -1,0 +1,20 @@
+###########################################
+# Syntax Coloring Map For Traktorinoa
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Traktorinoa		KEYWORD1
+niretraktorinoa	KEYWORD1
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+aurrera	KEYWORD2
+atzera  	KEYWORD2
+eskuinera	KEYWORD2
+ezkerrera	KEYWORD2
+abestu		KEYWORD2
+
