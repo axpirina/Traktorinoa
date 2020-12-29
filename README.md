@@ -1,9 +1,9 @@
 ## Sarrera
 
 
-**Traktorinoa.h** Traktorinoa L298P driverra gomandatzeko sorturiko arduino liburutegia da. 
+**Traktorinoa.h** liburutegia L298P driverra gomandatzeko sorturiko arduino liburutegia da. 
 
-**Traktorinoa.h** is Arduino library rcreated to drive the L298P motor shield.
+This is a **Traktorinoa.h** called Arduino library created to use the L298P motor shield.
 
 
 ![L298P Irudia](https://github.com/axpirina/Traktorinoa/blob/main/L298P.png "L298P")
