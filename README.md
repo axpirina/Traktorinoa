@@ -5,7 +5,7 @@
 **Traktorino.h** is Arduino library rcreated to drive the L298P motor shield.
 
 
-![L298P Irudia](https://github.com/axpirina/Traktorinoa/L298P.png)
+![L298P Irudia](https://github.com/axpirina/Traktorinoa/blob/main/L298P.png "L298P")
 
 ## License
 
@@ -25,7 +25,7 @@ This library it is release into open source license for any query you can write 
 
 ## Pinout (Just in case you wanna use it apart from library)
 
-![Pinout](https://github.com/axpirina/Traktorinoa/Pinout.png)
+![Pinout](https://github.com/axpirina/Traktorinoa/blob/main/Pinout.png "Pinout")
 
 
   
