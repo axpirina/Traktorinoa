@@ -17,11 +17,11 @@ This library it is release into open source license for any query you can write 
 ## Funtzioak 
 |Elements| Quantity | 
 |---|---|
-| aurrera()| A eta B motorrak aurrerantz mugitzen ditu. *FORWARD* | 
-| atzera()| A eta B motorrak atzerantz mugitzen ditu. *BACKWARD* | 
-| eskuinera()| A aurrerantz eta B atzerantz. *TURN RIGHT* | 
-| ezkerrera()| A atzerantz eta B aurrerantz. *TURN LEFT* | 
-| abestu()| Bozgorailutik soilu bat erreproduzitzen du. SONG from *BUZZER* | 
+| .aurrera();| A eta B motorrak aurrerantz mugitzen ditu. *FORWARD* | 
+| .atzera();| A eta B motorrak atzerantz mugitzen ditu. *BACKWARD* | 
+| .eskuinera();| A aurrerantz eta B atzerantz. *TURN RIGHT* | 
+| .ezkerrera();| A atzerantz eta B aurrerantz. *TURN LEFT* | 
+| .abestu();| Bozgorailutik soilu bat erreproduzitzen du. SONG from *BUZZER* | 
 
 
 ## Pinout (Just in case you wanna use it apart from library)
