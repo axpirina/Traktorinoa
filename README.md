@@ -9,8 +9,8 @@ This is a **Traktorinoa.h** Arduino library created to use the L298P motor shiel
 ![L298P Irudia](https://github.com/axpirina/Traktorinoa/blob/main/L298P.png "L298P")
 
 ## Instalazioa
-- Eskuinean dagoen ```C++ CODE ``` jartzen duen botoian sakatu eta .ZIP formatuan jaitsi artxiboa.
-- Arduino IDEan Include Library eta Add .ZIP aurkitu eta txertatu.
+- Eskuinean dagoen ``` CODE ``` jartzen duen botoian sakatu eta ```.ZIP ``` formatuan jaitsi artxiboa.
+- Arduino IDEan ```Include Library``` eta ```Add .ZIP``` aurkitu eta txertatu.
 
 ## Kodea
 Hemen daukazue liburutegiari deia egiteko adibide kodea. 
