@@ -40,6 +40,7 @@ This library it is release into open source license for any query you can write 
 |---|---|
 | .aurrera();| A eta B motorrak aurrerantz mugitzen ditu. *FORWARD* | 
 | .atzera();| A eta B motorrak atzerantz mugitzen ditu. *BACKWARD* | 
+| .geratu();| A eta B motorrak gelditzen ditu. *STOP* | 
 | .eskuinera();| A aurrerantz eta B atzerantz. *TURN RIGHT* | 
 | .ezkerrera();| A atzerantz eta B aurrerantz. *TURN LEFT* | 
 | .abestu();| Bozgorailutik soilu bat erreproduzitzen du. SONG from *BUZZER* | 
