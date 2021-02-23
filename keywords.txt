@@ -18,4 +18,5 @@ eskuinera	KEYWORD2
 ezkerrera	KEYWORD2
 abestu		KEYWORD2
 geratu    KEYWORD2 
+Mikel     KEYWORD2
 
