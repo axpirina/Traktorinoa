@@ -25,6 +25,7 @@ class Traktorinoa  //Clase definizioa
     void eskuinera();
     void ezkerrera();
     void abestu();
+    void mikel();
     
     private:
     
