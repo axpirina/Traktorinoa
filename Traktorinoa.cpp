@@ -82,8 +82,3 @@ void Traktorinoa::abestu()
     tone(4, 15000, 200); 
 }
 
-void Traktorinoa::mikel()
-{
-    Serial.println("https://www.youtube.com/watch?v=ZuupMrAhGXw");
-}
-
